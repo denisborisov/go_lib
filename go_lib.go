@@ -13,3 +13,8 @@ func MakeHello(name string) string {
 func Double(num int) int {
 	return num * 2
 }
+
+
+func Triple(num int) int {
+	return num * 3
+}
