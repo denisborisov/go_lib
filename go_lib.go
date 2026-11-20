@@ -1,4 +1,4 @@
-package stdlib
+package go_lib
 
 import "fmt"
 
